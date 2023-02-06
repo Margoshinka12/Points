@@ -1,0 +1,12 @@
+C:\Users\margo\source\repos\Points\PointLib\bin\Debug\net6.0\PointLib.deps.json
+C:\Users\margo\source\repos\Points\PointLib\bin\Debug\net6.0\PointLib.dll
+C:\Users\margo\source\repos\Points\PointLib\bin\Debug\net6.0\PointLib.pdb
+C:\Users\margo\source\repos\Points\PointLib\obj\Debug\net6.0\PointLib.vbproj.AssemblyReference.cache
+C:\Users\margo\source\repos\Points\PointLib\obj\Debug\net6.0\PointLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\margo\source\repos\Points\PointLib\obj\Debug\net6.0\PointLib.AssemblyInfoInputs.cache
+C:\Users\margo\source\repos\Points\PointLib\obj\Debug\net6.0\PointLib.AssemblyInfo.vb
+C:\Users\margo\source\repos\Points\PointLib\obj\Debug\net6.0\PointLib.vbproj.CoreCompileInputs.cache
+C:\Users\margo\source\repos\Points\PointLib\obj\Debug\net6.0\PointLib.dll
+C:\Users\margo\source\repos\Points\PointLib\obj\Debug\net6.0\refint\PointLib.dll
+C:\Users\margo\source\repos\Points\PointLib\obj\Debug\net6.0\PointLib.pdb
+C:\Users\margo\source\repos\Points\PointLib\obj\Debug\net6.0\ref\PointLib.dll
